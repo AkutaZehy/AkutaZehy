@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=fff)
-
 ![](https://img.shields.io/badge/-AfterEffects-000000?style=flat-square&logo=AdobeAfterEffects&logoColor=fff)
 
 <!--
