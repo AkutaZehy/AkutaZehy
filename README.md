@@ -27,9 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/-AfterEffects-000000?style=flat-square&logo=AdobeAfterEffects&logoColor=fff)
 
-
-## Others
-
 <!--
+## Others
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact" />
 -->
