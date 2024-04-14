@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 # Akuta Zehy
 
-暂时还没有太多的贡献，新人开发者。
+Beginner in coding
 
-呃有些比较奇怪的库不要在意w
+Some repositories may be weird never mind XD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy)](https://github.com/anuraghazra/github-readme-stats)
 
