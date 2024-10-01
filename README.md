@@ -54,4 +54,4 @@ Learned Java as the first one, not a Java **master**.
 # GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AkutaZehy&hide_title=true)
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,ren'py)
