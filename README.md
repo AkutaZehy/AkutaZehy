@@ -17,7 +17,7 @@ My first being starred repository: [Free Snacks](https://github.com/AkutaZehy/fr
 
 ## At the very first...
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](#)
 
 <mark>is the best language in the world</mark>
 
@@ -40,7 +40,7 @@ My Codes with Python on Deep Learning:
 
 I hate it. 
 
-<p style="font-size: 25px; ">FXCK PYTHON. FXCK PYTHON. FXCK PYTHON.</p>
+> FXCK PYTHON. FXCK PYTHON. FXCK PYTHON.
 
 ## OK, I can use them
 
@@ -60,6 +60,7 @@ I hate it.
 
 [![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
