@@ -42,6 +42,8 @@ I hate it.
 
 > FXCK PYTHON. FXCK PYTHON. FXCK PYTHON.
 
+**Python has been hidden from top langs below.**
+
 ## OK, I can use them
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
@@ -76,4 +78,4 @@ I hate it.
 # GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AkutaZehy&hide_title=true)
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,ren'py)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,python,ren'py,cuda,html,vbscript,shaderlab,hlsl)
