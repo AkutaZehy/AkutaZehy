@@ -29,8 +29,13 @@ Learned Java as the first one, not a Java **master**.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
 <mark>Although I have studied and worked in deep learning so far, I do not plan to make it my main focus for future work. </mark>
+
+One of the reasons is shown in this passage:
+
+[Dear conda, drop DEAD](https://akutazehy.github.io/morsel/posts/conda%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8E%BB%E6%AD%BB%E4%BA%86/) (Written in Chinese)
 
 My Codes with Python on Deep Learning:
 
@@ -38,11 +43,7 @@ My Codes with Python on Deep Learning:
 - [GPSGaussian to Live](https://github.com/AkutaZehy/spaghetti/tree/main/gps_gaussian)
 - [Multitask Maskformer](https://github.com/AkutaZehy/spaghetti/tree/main/Mask2Former-main)
 
-I hate it. 
-
-> FXCK PYTHON. FXCK PYTHON. FXCK PYTHON.
-
-**Python has been hidden from top langs below.**
+**So, Python has been hidden from top langs below.**
 
 ## OK, I can use them
 
@@ -67,6 +68,7 @@ I hate it.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Nuxt](https://img.shields.io/badge/-Nuxt%203-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
 [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
 
