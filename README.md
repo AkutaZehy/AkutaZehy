@@ -17,11 +17,17 @@ My first being starred repository: [Free Snacks](https://github.com/AkutaZehy/fr
 
 ## At the very first...
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white)](#) 
 
-<mark>is the best language in the world</mark> <s>What? Disagree? People like you should be sent to the [*Garbage Collector*](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)). </s>
+<mark>is the best language in the world.</mark> The weird guy in the upper one is actually [OpenJDK](https://github.com/openjdk).
+
+<s>What? Disagree? People like you should be sent to the [*Garbage Collector*](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)). </s>
 
 Learned Java as the first one, not a Java **master**.
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=coffeescript&logoColor=white)](#)
+
+↑ By the way a better looking of Java Badge, using [coffeescript](https://github.com/jashkenas/coffeescript/), which is actually wrong in meaning. 
 
 ## Then...
 
@@ -36,6 +42,8 @@ Learned Java as the first one, not a Java **master**.
 One of the reasons is shown in this passage:
 
 [Dear conda, drop DEAD](https://akutazehy.github.io/morsel/posts/conda%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8E%BB%E6%AD%BB%E4%BA%86/) (Written in Chinese)
+
+Another reason is that I am extremely pessimistic about the development of AI in small companies. When you think about [FAIR](https://github.com/facebookresearch), a group training models with 100 [A100](https://www.nvidia.com/en-us/data-center/a100/) graphics cards in 2023, you know that unless you are a super genius, it is something you can never catch up with in your lifetime without *enough* money—I am not the kind, and the rest part, the part everyone could catch up, have long been devoured up by the market.
 
 My Codes with Python on Deep Learning:
 
@@ -80,4 +88,5 @@ My Codes with Python on Deep Learning:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AkutaZehy&show_icons=true&hide_rank=1&theme=buefy&include_all_commits=1&hide_title=true)
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,python,ren'py,cuda,html,vbscript,shaderlab,hlsl)
+
 
