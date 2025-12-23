@@ -19,7 +19,7 @@ My first being starred repository: [Free Snacks](https://github.com/AkutaZehy/fr
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](#)
 
-<mark>is the best language in the world</mark>
+<mark>is the best language in the world</mark> <s>What? Disagree? People like you should be sent to the [*Garbage Collector*](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)). </s>
 
 Learned Java as the first one, not a Java **master**.
 
@@ -48,6 +48,7 @@ My Codes with Python on Deep Learning:
 ## OK, I can use them
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Vue](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)](#)
@@ -65,10 +66,8 @@ My Codes with Python on Deep Learning:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Nuxt](https://img.shields.io/badge/-Nuxt%203-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
 [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
 
@@ -81,3 +80,4 @@ My Codes with Python on Deep Learning:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=AkutaZehy&show_icons=true&hide_rank=1&theme=buefy&include_all_commits=1&hide_title=true)
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,python,ren'py,cuda,html,vbscript,shaderlab,hlsl)
+
