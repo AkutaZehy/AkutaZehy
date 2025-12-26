@@ -86,7 +86,8 @@ My Codes with Python on Deep Learning:
 
 # GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=AkutaZehy&show_icons=true&hide_rank=1&theme=buefy&include_all_commits=1&hide_title=true)
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,python,ren'py,cuda,html,vbscript,shaderlab,hlsl)
+![stats](https://github-readme-stats-fast.vercel.app/api?username=AkutaZehy&show_icons=true&hide_rank=1&theme=buefy&include_all_commits=1&hide_title=true)
+![top_langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkutaZehy&layout=compact&hide=jupyter%20notebook,python,ren'py,cuda,html,vbscript,shaderlab,hlsl)
+
 
 
