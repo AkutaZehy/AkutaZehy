@@ -5,9 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Akuta Zehy
 
-A beginner, continue learning...
-
-A future testo engineer and game maker maybe.
+A beginner, continue learning...a future testo engineer and game maker maybe.
 
 My first being starred repository: [Free Snacks](https://github.com/AkutaZehy/free-snacks)
 
@@ -33,14 +31,14 @@ Learned Java as the first one, not a Java **master**.
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![Nvidia](https://img.shields.io/badge/CUDA-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
-<mark>Although I have studied and worked in deep learning so far, I do not plan to make it my main focus for future work. </mark>
+<mark>Python is a language that I used to use but hate at the same time. Although I have studied and worked in deep learning so far, if given the chance, I will not use it in the future. </mark>
+**So, Python has been hidden from top langs below.**
 
-One of the reasons is shown in this passage:
-
+One of the reasons is shown in this passage: 
 [Dear conda, drop DEAD](https://akutazehy.github.io/morsel/posts/conda%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8E%BB%E6%AD%BB%E4%BA%86/) (Written in Chinese)
 
 Another reason is that I am extremely pessimistic about the development of AI in small companies. When you think about [FAIR](https://github.com/facebookresearch), a group training models with 100 [A100](https://www.nvidia.com/en-us/data-center/a100/) graphics cards in 2023, you know that unless you are a super genius, it is something you can never catch up with in your lifetime without *enough* money—I am not the kind, and the rest part, the part everyone could catch up, have long been devoured up by the market.
@@ -48,12 +46,12 @@ Another reason is that I am extremely pessimistic about the development of AI in
 My Codes with Python on Deep Learning:
 
 - [Crack Detection utils for Python](https://github.com/AkutaZehy/CrackDetection-Utils-for-Python) (archived)
-- [GPSGaussian to Live](https://github.com/AkutaZehy/spaghetti/tree/main/gps_gaussian)
-- [Multitask Maskformer](https://github.com/AkutaZehy/spaghetti/tree/main/Mask2Former-main)
+- [GPSGaussian to Live](https://github.com/AkutaZehy/spaghetti/tree/main/gps_gaussian) (archived)
+- [Multitask Maskformer](https://github.com/AkutaZehy/spaghetti/tree/main/Mask2Former-main) (archived)
 
-**So, Python has been hidden from top langs below.**
+> In addition: Trust me, use [pixi](https://github.com/prefix-dev/pixi) instead of uv/conda/mamba, and you may get way more better dev experience.
 
-## OK, I can use them
+## OK, I can use them myself
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -61,26 +59,46 @@ My Codes with Python on Deep Learning:
 [![Vue](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)](#)
 
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
+
 [![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe-After-Effects&logoColor=white)](#)
 [![Adobe Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=flat-square&logo=Adobe-InDesign&logoColor=white)](#)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=flat-square&logo=Adobe-Photoshop&logoColor=white)](#)
 [![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=flat-square&logo=Krita&logoColor=white)](#)
 
-## Still Learning
+## Still Learning, available with AI assistance
 
-[![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Nuxt](https://img.shields.io/badge/-Nuxt%203-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
-[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
+[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=white)](https://nuxt.com/)
+[![Wails](https://img.shields.io/badge/Wails-%23FFFFFF.svg?logo=wails&logoColor=red)](#)
 
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?logo=godot-engine)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+
+## Screw it
+
+**Languages with critical problems or just NOT REALLY FRIENDLY for using.**
+
+[![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+
+Bad inheritance between versions, inconsistent syntax, and dependency disasters worse than Python.
+
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
+
+Poor code readability, heavy mental burden during development.
+
+[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=fff)](#)
+
+Unless you are a Rust fanatic, there is no reason to use Tauri, except that the package body is smaller and Tauri applications are not as "advantageous" as advertised. And crazy storage burden with debug files during devs.
+
+If you want to get rid of Electron, I recommend Wails (Golang) or Flutter (Dart), not Tauri.
 
 </details>
 
