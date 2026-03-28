@@ -108,7 +108,7 @@ If you want to get rid of Electron, I recommend Wails (Golang) or Flutter (Dart)
 <details>
 <summary>STATICS</summary>
 <p align="center">
-	<a href="https://github.com/OverflowCat/OverflowCat">
+	<a href="https://github.com/AkutaZehy/AkutaZehy">
 		<img src="https://raw.githubusercontent.com/AkutaZehy/AkutaZehy/main/metrics/general.svg">
 	</a>
 </p>
