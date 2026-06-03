@@ -106,10 +106,16 @@ If you want to get rid of Electron, I recommend Wails (Golang) or Flutter (Dart)
 </details>
 
 <details>
-<summary>STATICS</summary>
+<summary>STATICS of Github</summary>
 <p align="center">
 	<a href="https://github.com/AkutaZehy/AkutaZehy">
 		<img src="https://raw.githubusercontent.com/AkutaZehy/AkutaZehy/main/metrics/general.svg">
 	</a>
 </p>
+</details>
+
+<details>
+<summary>STATICS of Coding</summary>
+<img src="https://wakatime.com/share/@f0f5d630-d72c-405d-a397-c47ef43ac300/c9df90c1-f3fd-46e8-92fe-e0fb0a09cd62.png" />
+<img src="https://wakatime.com/share/@f0f5d630-d72c-405d-a397-c47ef43ac300/039c3bbc-9516-43cd-9128-1ad4e982fd0d.png" />
 </details>
