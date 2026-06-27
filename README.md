@@ -3,7 +3,7 @@ AkutaZehy/AkutaZehy is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Akuta Zehy
+[![GitHub Roast](https://githubroast.icu/api/card/AkutaZehy)](https://githubroast.icu/u/AkutaZehy)
 
 A beginner, continue learning...a future testo engineer and game maker maybe.
 
