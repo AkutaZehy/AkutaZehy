@@ -109,7 +109,7 @@ If you want to get rid of Electron, I recommend Wails (Golang) or Flutter (Dart)
 <summary>STATICS of Github</summary>
 <p align="center">
 	<a href="https://github.com/AkutaZehy/AkutaZehy">
-		<img src="https://raw.githubusercontent.com/AkutaZehy/AkutaZehy/main/metrics/general.svg">
+		<img src="https://raw.githubusercontent.com/AkutaZehy/AkutaZehy/main/metrics/general.png">
 	</a>
 </p>
 </details>
